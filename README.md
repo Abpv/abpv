@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js | Laravel**
 
-- 👨‍💻 All of my projects are available at <a href="abpascual.com" target="_blank">abpascual.com</a>
+- 👨‍💻 All of my projects are available at <a href="https://abpascual.com" target="_blank">abpascual.com</a>
 
 - 💬 Ask me about **HTML | CSS | JS | PHP**
 
