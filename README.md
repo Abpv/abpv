@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js | Laravel**
 
-- 👨‍💻 All of my projects are available at <a href="abpascual.com" target="_blank">[abpascual.com](abpascual.com)</a>
+- 👨‍💻 All of my projects are available at <a href="abpascual.com" target="_blank">abpascual.com</a>
 
 - 💬 Ask me about **HTML | CSS | JS | PHP**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abpascual" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abpascual" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abpascual" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abpascual" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
