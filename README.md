@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Ana B. Pascual</h1>
 <h3 align="center">A passionate web developer student from Spain</h3>
 
-- 🔭 I’m currently working on [iWear project](abpascual/projects/iwear)
+- 🔭 I’m currently working on <a href="https://abpascual.com" target="_blank">iWear project</a>
 
 - 🌱 I’m currently learning **React.js | Laravel**
 
