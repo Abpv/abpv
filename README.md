@@ -1,13 +1,11 @@
 <h1 align="center">Hey 👋, I'm Ana B. Pascual</h1>
-<h3 align="center">A passionate web developer student from Spain</h3>
-
-- 🔭 I’m currently working on <a href="https://abpascual.com" target="_blank">iWear project</a>
+<h3 align="center">A passionate software developer specializing in Oracle APEX, PLSQL and OCI database management</h3>
 
 - 🌱 I’m currently learning **React.js | Laravel**
 
 - 👨‍💻 All of my projects are available at <a href="https://abpascual.com" target="_blank">abpascual.com</a>
 
-- 💬 Ask me about **HTML | CSS | JS | PHP**
+- 💬 Ask me about **PLSQ | APEX | JS | CSS**
 
 - 📫 How to reach me **abpascualvalles@gmail.com**
 
